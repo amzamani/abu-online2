@@ -58,4 +58,4 @@
     window.app = app;
   })();
   
-  app.init();
+  
